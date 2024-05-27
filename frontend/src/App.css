@@ -1,0 +1,33 @@
+.Headers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.itemdivs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 700;
+}
+.itemss {
+  margin-inline-start: 5rem;
+}
+
+.saleorder {
+  margin-left: 25rem;
+}
+.completesale {
+  margin-left: 20px;
+}
+
+.itemdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.items {
+  font-size: 20px;
+  margin: 30px 90px;
+}
